@@ -21,7 +21,7 @@ A comprehensive data analytics project built with **Python** and **Streamlit** t
 
 | Property         | Value                              |
 |------------------|------------------------------------|
-| File             | `Sales_transactions_2022_2025.csv` |
+| File             | `Sales_transactions_2022_2025.csv`(https://www.kaggle.com/datasets/danielsowah123/retail-sales-dataset?resource=download) |
 | Rows             | 18,045 transactions                |
 | Columns          | 32                                 |
 | Years            | 2022, 2023, 2024, 2025             |
